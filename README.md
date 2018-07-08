@@ -1,5 +1,4 @@
-# The Explorative Value of Computational Methods: \
-Rereading the American Short Story
+# The Explorative Value of Computational Methods: Rereading the American Short Story
 
 *Stephanie Siewert and Nils Reiter* 
 
