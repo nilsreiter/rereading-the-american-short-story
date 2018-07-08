@@ -23,4 +23,4 @@ On a (Unix) command line, you can execute `Rscript Analyses.R`. This generates a
 
 ## The plots
 
-High resolution versions of the plots are stored in the folder `Plots`, as PNG files.
+High resolution versions of the plots are stored in the folder [`Plots`](Plots), as PNG files.
